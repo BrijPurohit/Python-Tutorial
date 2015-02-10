@@ -1,4 +1,4 @@
-__author__ = 'Gaurav'
+__author__ = 'Brij'
 #When you declare variables inside a function definition, they are not related in any way to other variables
 # with the same names used outside the function - i.e. variable names are local to the function
 x = 50
